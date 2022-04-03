@@ -1,0 +1,116 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0px;
+}
+
+.first {
+    margin: 0px;
+    padding: 5px;
+    background-color: #8ebc8e;
+    text-align: center;
+    font-size: 10px;
+}
+
+h1 {
+    letter-spacing: 0.3rem;
+    word-spacing: 0.5rem;
+    text-decoration: overline;
+    margin-bottom: 0em;
+}
+
+.prague {
+    letter-spacing: 0.2rem;
+    margin-top: 0em;    
+    margin-bottom: 0em;
+}
+
+.parris {
+    font-weight: bold;
+    text-decoration-line: underline;
+    text-decoration-style: dotted;
+    letter-spacing: 0.2rem;
+    color: green;
+    margin-top: 0em;    
+    margin-bottom: 0em;
+}
+
+.tallin {
+    letter-spacing: 0.2rem;
+    text-decoration-line: line-through;
+    text-decoration-color: rgb(165, 5, 5);
+    margin-top: 0em;    
+    margin-bottom: 0em;
+}
+
+.germany {
+    letter-spacing: 0.2rem;
+    margin-top: 0em;    
+    margin-bottom: 0em;
+}
+
+.austria {
+    font-weight: bold;
+    letter-spacing: 0.2rem;
+    color: green;
+    text-decoration: underline;
+    text-decoration-style: dotted;
+    margin-top: 0em;    
+}
+
+.topic {
+    text-transform: uppercase;
+    font-style: italic;    
+}
+
+.paragraph {
+    margin: 10px 20px 10px 20px;
+    text-indent: 30px; 
+    line-height: 1.5;  
+    text-align: justify;     
+}
+
+.second {
+    margin: 20px 0px 0px 30px;
+    background-color: #ffff01;
+    text-align: center;
+    width: 300px;
+    height: 100px;
+    font-size: 10px;
+    border: dotted;
+}
+
+.third {
+    margin-right: 0px;
+    margin-left: 750px;
+    background-color: #9acd32;
+    text-align: center;
+    width: 300px;
+    height: 100px;
+    font-size: 10px;
+    border: dashed;
+}
+
+.fourth {
+    margin-left: 200px;
+    margin-top: 0px;
+    background-color: #9470dc;
+    text-align: center;
+    width: 300px;
+    height: 100px;
+    font-size: 10px;
+    border: dashed;
+}
+
+.fifth {
+    margin-left: 550px;
+    margin-top: 0px;
+    background-color: #fa8071;
+    text-align: center;
+    width: 300px;
+    height: 100px;
+    font-size: 10px;
+    border: dotted;
+}
